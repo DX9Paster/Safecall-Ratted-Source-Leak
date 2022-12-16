@@ -23,6 +23,9 @@ Name svchost.exe <br>
 Size 1,751kb <br>
 Directory C:\Windows\System32\NetworkInterface\Malwarebytes_Antimalware\
 
+![image](https://user-images.githubusercontent.com/104642778/208191123-63558dc7-c725-4bf6-ab37-9ab1d4d80518.png)
+
+
 # how to remove<br>
 https://voidtools.com/ <br>
 Download Everything file scanner x64 installer<br>
