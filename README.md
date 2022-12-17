@@ -19,7 +19,7 @@ Detected on EAC and BE
 
 # Rat
 Downloads a Bat through a public template. <br>
-Rat asyncrat <br>
+Rat Brand asyncrat <br>
 Name svchost.exe <br>
 Size 1,751kb <br>
 Directory C:\Windows\System32\NetworkInterface\Malwarebytes_Antimalware\ <br>
