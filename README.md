@@ -19,9 +19,12 @@ Detected on EAC and BE
 
 # Rat
 Downloads a Bat through a public template. <br>
+Rat asyncrat <br>
 Name svchost.exe <br>
 Size 1,751kb <br>
-Directory C:\Windows\System32\NetworkInterface\Malwarebytes_Antimalware\
+Directory C:\Windows\System32\NetworkInterface\Malwarebytes_Antimalware\ <br>
+Directorys might be random, it will always be added to a folder in system32 with svchost in it.<br>
+Reminder. There is another svchost your system needs so do not delete every svchost you see. <br>
 
 ![image](https://user-images.githubusercontent.com/104642778/208191123-63558dc7-c725-4bf6-ab37-9ab1d4d80518.png)
 
