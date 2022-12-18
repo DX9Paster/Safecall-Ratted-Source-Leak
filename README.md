@@ -38,8 +38,9 @@ Once found do Windows + R and paste the Directory in<br>
 ![image](https://user-images.githubusercontent.com/104642778/208188834-063633ae-a657-456c-824a-163224f3b101.png)
 
 # New Account and Server<br>
+![image](https://user-images.githubusercontent.com/104642778/208315413-24055ba4-6d58-41c7-95f6-ed1baf418d79.png)<br>
 ![image](https://user-images.githubusercontent.com/104642778/208188244-14e8c411-201a-44df-a116-c3db81087535.png) <br>
-![image](https://user-images.githubusercontent.com/104642778/208188314-7c398991-0ebd-4d4b-90bd-7f608c5d6b5b.png)
+![image](https://user-images.githubusercontent.com/104642778/208188314-7c398991-0ebd-4d4b-90bd-7f608c5d6b5b.png)<br>
 
 # More Info <br>
 Great Repo to check out the full situation.<br>
