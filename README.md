@@ -1,21 +1,21 @@
 # Safecall-Ratted-Source-Leak
-Damage Safecall Ratted Source Leaked by LeProxy and Plu<br>
-Must update DBNO check for actor loop to work
+**Damage Safecall Ratted Source Leaked by LeProxy and Plu**<br>
+**Must update DBNO check for actor loop to work**
 
 # Features<br>
-Simple Aimbot<br>
-Simple Esp<br>
-Player Name<br>
-Enemy Radar<br>
-DMR Rapid<br>
-Insta Reload<br>
-God DMR<br>
-Car Fly<br>
-Spin Bot<br>
+- Simple Aimbot<br>
+- Simple Esp<br>
+- Player Name<br>
+- Enemy Radar<br>
+- DMR Rapid<br>
+- Insta Reload<br>
+- God DMR<br>
+- Car Fly<br>
+- Spin Bot<br>
 
 # Driver
 Sony pasted Driver <br>
-Detected on EAC and BE
+**Detected on EAC and BE**
 
 # Rat
 Downloads a Bat through a public template. <br>
@@ -24,7 +24,7 @@ Name svchost.exe <br>
 Size 1,751kb <br>
 Directory C:\Windows\System32\NetworkInterface\Malwarebytes_Antimalware\ <br>
 Directorys might be random, it will always be added to a folder in system32 with svchost in it.<br>
-Reminder. There is another svchost your system needs so do not delete every svchost you see. <br>
+**Reminder. There is a Actual svchost, Please Check the size before Deleting.** <br>
 
 ![image](https://user-images.githubusercontent.com/104642778/208191123-63558dc7-c725-4bf6-ab37-9ab1d4d80518.png)
 
@@ -43,5 +43,5 @@ Once found do Windows + R and paste the Directory in<br>
 ![image](https://user-images.githubusercontent.com/104642778/208188314-7c398991-0ebd-4d4b-90bd-7f608c5d6b5b.png)<br>
 
 # More Info <br>
-Great Repo to check out the full situation.<br>
+**Great Repo to check out the full situation.**<br>
 https://github.com/NasmMachineAssembly/Damage1337-Paster-Ratter
